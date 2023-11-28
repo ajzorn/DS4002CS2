@@ -9,7 +9,7 @@ and [matplotlib](https://matplotlib.org/).
 
 [This article](https://www.topresume.com/career-advice/why-linkedin-is-important) provides great reasoning and explains the value behind having a LinkedIn profile.
 
-[This article](https://medium.com/@morgan.fitzgerald/visualizing-feature-importance-in-a-simple-text-classification-model-b0495197eac) provides helpful tips in working with text recogition regressional models.
+[This article](https://medium.com/@morgan.fitzgerald/visualizing-feature-importance-in-a-simple-text-classification-model-b0495197eac) provides helpful tips for working with text recogition regressional models.
 
 **Data:**
 [Link to Data](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings)
