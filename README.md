@@ -20,5 +20,5 @@ and [matplotlib](https://matplotlib.org/).
 [This blog post](https://www.quora.com/How-can-I-plot-a-graph-in-Python-using-Matplotlib) provides directions for plotting a graph in matplotlib.
 
 **Data:**
-[Link to Data](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings)
+[Link to Data](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings) &
 [Link to Produced Data](https://github.com/ajzorn/DS4002Project1/blob/main/Data/extracted_skills.csv.zip)
