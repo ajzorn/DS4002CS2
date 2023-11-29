@@ -21,3 +21,4 @@ and [matplotlib](https://matplotlib.org/).
 
 **Data:**
 [Link to Data](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings)
+[Link to Produced Data](https://github.com/ajzorn/DS4002Project1/blob/main/Data/extracted_skills.csv.zip)
